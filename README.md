@@ -1,2 +1,7 @@
 # MNIST-tensorflow
-MNIST Digit Classification with TensorFlow
+In this lab you will implement two machine-learning classifiers for handwritten digit recognition on the MNIST dataset using TensorFlow / Keras:
+
+1. Logistic Regression — a single-layer linear model.
+2. Simple Neural Network — a feedforward network with two hidden layers.
+
+You will work with a provided codebase that already contains the full training/testing pipeline (main.py). Your task is to complete the implementation of the classifier classes in classifier.py, then execute the pipeline and report your results.
